@@ -1,0 +1,5 @@
+NAME="sugar-Yupana"
+VERSION=7
+RELEASE=1
+SUGAR_TYPE="Honey"
+inherit sugar
